@@ -9,6 +9,5 @@ coverage
 dist
 sw.*
 dist
-lib
 types
 .husky
